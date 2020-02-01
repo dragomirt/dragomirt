@@ -12,7 +12,7 @@ const Homepage = () => (
         <BaseLayout>
             <div className="headerBlock">
                 <h1 className="nameHeader">Dragomir Țurcanu</h1>
-                <span className="nameTag">@dragomirt</span>
+                <span className="nameTag"><a href="https://twitter.com/dragomirturcanu" target="_blank">@dragomirturcanu</a></span>
             </div>
 
             <div className="contentBody">
@@ -48,9 +48,13 @@ const Homepage = () => (
             }
             
             .nameTag {
+                margin-top: -22px;
+            }
+            
+            .nameTag a {
                 color: ${styles.colors.secondary};
                 font-size: 22px;
-                margin-top: -22px;
+                text-decoration: none;
             }
             
             .headerBlock {

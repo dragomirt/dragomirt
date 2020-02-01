@@ -18,17 +18,17 @@ class Contact extends React.Component {
 
                         <tr>
                             <td>github</td>
-                            <td>https://github.com/dragomirt</td>
+                            <td><a href="https://github.com/dragomirt" target="_blank">https://github.com/dragomirt</a></td>
                         </tr>
 
                         <tr>
                             <td>twitter</td>
-                            <td>@dragomirt</td>
+                            <td><a href="https://twitter.com/dragomirturcanu" target="_blank">@dragomirturcanu</a></td>
                         </tr>
 
                         <tr>
                             <td>linkedin</td>
-                            <td>https://www.linkedin.com/in/dragomirt/</td>
+                            <td><a href="https://www.linkedin.com/in/dragomirt/" target="_blank">https://www.linkedin.com/in/dragomirt/</a></td>
                         </tr>
                     </table>
                 </div>
