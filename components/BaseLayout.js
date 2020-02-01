@@ -1,11 +1,7 @@
 import React from 'react';
-import Fonts from "./Fonts";
+import styles from "../config/styles";
 
 class BaseLayout extends React.Component {
-
-    componentDidMount() {
-        Fonts();
-    }
 
     render() {
         return <div className="parentWrapper">
@@ -33,11 +29,9 @@ class BaseLayout extends React.Component {
                 
                 body {
                     margin: 0;
+                    font-family: ${styles.fontSettings.fontFamilySerif};
                 }
                 
-                .garamond {
-                    font-family: "Cormorant Garamond", roboto;
-                }
         `}</style>
         </div>
     }

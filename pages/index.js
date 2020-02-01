@@ -20,15 +20,15 @@ const Homepage = () => (
 
                 <div className="baseContent">
                     <div className="navigation">
-                        <Link href="archive" as={`/archive`}>
+                        <Link href="/archive" as={`/archive`}>
                             <a className="navlink">Archive</a>
                         </Link>
 
-                        <Link href="about" as={`/about`}>
+                        <Link href="/about" as={`/about`}>
                             <a className="navlink">About Me</a>
                         </Link>
 
-                        <Link href="contact" as={`/contact`}>
+                        <Link href="/contact" as={`/contact`}>
                             <a className="navlink">Contact</a>
                         </Link>
                     </div>
@@ -42,7 +42,7 @@ const Homepage = () => (
         <style jsx>{`
             .nameHeader {
                 margin-top: 0;
-                font-family: ${styles.fontSettings.fontFamily};
+                font-family: ${styles.fontSettings.fontFamilySerif};
                 font-weight: ${styles.fontSettings.fontWeight};
                 color: ${styles.colors.black};
             }

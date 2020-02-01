@@ -1,8 +1,12 @@
 const styles = {
     fontSettings: {
-        fontFamily: "Cormorant Garamond, serif",
+        fontFamily: "serif",
         fontStyle: "normal",
-        fontWeight: 400
+        fontWeight: 400,
+
+        fontFamilySerif: `Garamond,Baskerville,"Baskerville Old Face","Hoefler Text","Times New Roman",serif`,
+        fontFamilyMonospace: `"Courier New",Courier,"Lucida Sans Typewriter","Lucida Typewriter",monospace`,
+        fontFamilySansSerif: `"Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif`
     },
 
     colors: {
