@@ -3,10 +3,14 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export"
   },
   "dependencies": {
+    "fontfaceobserver": "^2.1.0",
     "next": "^9.2.1",
+    "next-fonts": "^1.0.3",
+    "nextjs-fonts": "^0.22.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
