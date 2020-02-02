@@ -16,7 +16,8 @@ const Homepage = () => (
             </div>
 
             <div className="contentBody">
-                <p className="shortDescription">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
+                <p className="shortDescription">Full stack software engineer and tech enthusiast. <br/><br/>
+                    I enjoy making CLI tools, APIs and high performance web applications. Mostly PHP and NodeJS.</p>
 
                 <div className="baseContent">
                     <div className="navigation">

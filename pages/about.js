@@ -11,13 +11,14 @@ class About extends React.Component {
                 <h1 className="pageHeader">About Me</h1>
                 <div className="photo"><img src="/images/photo.jpg" alt="My Photo"/></div>
                 <p className="content">
-                    Et imperdiet mi vulputate. Praesent et dui est. Nunc varius iaculis enim, vel venenatis mi. Fusce quis metus nulla. Cras auctor imperdiet porttitor. Nulla vel consequat ligula. Quisque mattis blandit turpis, nec porttitor est suscipit laoreet. Praesent at neque posuere, rhoncus urna nec, rhoncus elit. Duis eget ex nec odio dictum ullamcorper at quis magna. Curabitur nec sapien id leo posuere egestas eget sit amet quam. Praesent vestibulum est lorem, quis fringilla velit auctor elementum. Phasellus id diam nibh. Phasellus sollicitudin molestie est ac dignissim.
-
-                    <br/>
-                    <br/>
-                    Praesent nisl purus, euismod eu accumsan non, ullamcorper eu nibh. Sed accumsan ullamcorper diam, ac vestibulum quam pretium et. Donec non neque accumsan, volutpat neque non, venenatis enim. Vivamus imperdiet nunc id auctor faucibus. Phasellus convallis, dui nec tempus tristique, ipsum elit molestie dolor, dignissim molestie sapien lorem eget nisi. Donec quis blandit mauris, vitae pharetra urna. Donec semper orci lectus, consectetur bibendum est pulvinar vel. Duis viverra non dolor id volutpat. In laoreet est non augue egestas consequat. Nulla facilisi. Sed tincidunt rutrum libero, eget pretium felis tristique a. Nullam nec vestibulum urna. Vestibulum in sapien sagittis, sagittis ex ut, lobortis diam. Integer vel quam laoreet, finibus urna eu, efficitur augue.
-
-                    Etiam elit neque, eleifend eu justo non, bibendum scelerisque lacus. Fusce elementum quam nec dui sodales egestas. Proin hendrerit neque nisl, id sagittis massa porta ut. Curabitur maximus hendrerit dui, eu malesuada ipsum dapibus nec. Vivamus non tellus ante. Integer finibus, justo et semper viverra, tortor libero accumsan dolor, sit amet efficitur risus eros quis dui. Phasellus imperdiet orci ut ante tincidunt, eget ullamcorper metus ultricies. Aliquam pulvinar lectus eros, mattis rhoncus quam molestie id. Maecenas posuere diam arcu, ut dignissim erat aliquet sed. Curabitur at blandit risus. Morbi ut libero ultricies nunc condimentum sodales. Mauris molestie mattis libero, id posuere justo elementum nec.
+                    Hi there! As you might have noticed on the homepage, I do enjoy playing with various types and flavors of software, for fun and for a living. I have a keen interest in performance optimizations and intense computation ( image, video, and 3d manipulation ). Although throughout my career my main area of concern were web technologies, I'm enthusiastic about native platforms, hardware, and IoT.
+                    <br/><br/><br/>
+                    From the age of 16 when I began working in tech, I have had the chance to meet a lot of deeply passionate and skillful professionals that have helped me enrich and expand my knowledge regarding the aforementioned topics. Today, I enjoy exploring new things about my craft and helping others in their beginnings.
+                    <br/><br/>Currently, enrolled in the "Informational Management" degree at the Computer Science department of the Technical University of Moldova.
+                    <br/><br/><br/>
+                    My hobbies are running and cooking. I'm deeply convinced that my <a href="https://www.strava.com/activities/2858417572/overview" target="_blank">23:27 5k</a> is unbeatable. Prove me wrong :P
+                    <br/><br/><br/>
+                    You can usually find me in <a href="https://www.google.com/maps/place/Chisinau/data=!4m2!3m1!1s0x40c97c3628b769a1:0x37d1d6305749dd3c?sa=X&ved=2ahUKEwjQr4KP4LLnAhWHbFAKHVKuCRQQ8gEwG3oECBEQBA" target="_blank">Chisinau, Moldova</a>.
                 </p>
             </div>
 
@@ -59,7 +60,7 @@ class About extends React.Component {
                     color: ${styles.colors.secondary};
                     font-weight: ${styles.fontSettings.fontWeight};
                     
-                    text-align: center;
+                    text-align: left;
                 }
             `}</style>
         </BaseLayout>
