@@ -2,10 +2,15 @@ import React from 'react';
 import BaseLayout from "../components/BaseLayout";
 import styles from "../config/styles";
 import NavigationHeader from "../components/NavigationHeader";
+import {NextSeo} from "next-seo";
 
 class About extends React.Component {
     render () {
         return <BaseLayout>
+            <NextSeo
+                title="About — Dragomir Țurcanu"
+                description="Dragomir Țurcanu, Software Engineer in Chisinau."
+            />
             <div className='activeBodyWrapper'>
                 <NavigationHeader></NavigationHeader>
                 <h1 className="pageHeader">About Me</h1>

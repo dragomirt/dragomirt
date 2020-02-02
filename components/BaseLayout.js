@@ -15,8 +15,9 @@ class BaseLayout extends React.Component {
                 justify-content: center;
                 align-items: center;
                 
-                height: calc(100vh);
-                width: calc(100vw);
+                min-height: calc(100vh);
+                
+                padding: 25px;
             }
             
             .bodyWrapper {

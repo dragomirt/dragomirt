@@ -2,10 +2,15 @@ import React from 'react';
 import BaseLayout from "../components/BaseLayout";
 import NavigationHeader from "../components/NavigationHeader";
 import styles from "../config/styles";
+import {NextSeo} from "next-seo";
 
 class Contact extends React.Component {
     render () {
         return <BaseLayout>
+            <NextSeo
+                title="Contacts — Dragomir Țurcanu"
+                description="Dragomir Țurcanu, Software Engineer in Chisinau."
+            />
             <div className="activeBodyWrapper">
                 <NavigationHeader></NavigationHeader>
                 <h1 className="pageHeader">Contact</h1>
@@ -56,6 +61,12 @@ class Contact extends React.Component {
                 div.content table tr td:first-child {
                     font-weight: 600;
                     padding-right: 15px;
+                }
+                
+                @media screen and (max-width: 374px) {
+                    table td {
+                        font-size: 14px;
+                    }
                 }
             `}</style>
         </BaseLayout>

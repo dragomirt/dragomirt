@@ -2,6 +2,7 @@ import BaseLayout from "../components/BaseLayout";
 import styles from "../config/styles";
 import Link from "next/link";
 import RecentPosts from "../components/RecentPosts";
+import { NextSeo } from 'next-seo';
 
 /**
  * @return {string}
@@ -9,6 +10,10 @@ import RecentPosts from "../components/RecentPosts";
 
 const Homepage = () => (
     <>
+        <NextSeo
+            title="Dragomir Țurcanu"
+            description="Dragomir Țurcanu, Software Engineer in Chisinau."
+        />
         <BaseLayout>
             <div className="headerBlock">
                 <h1 className="nameHeader">Dragomir Țurcanu</h1>
@@ -108,6 +113,27 @@ const Homepage = () => (
                 font-size: 24px;
                 color: ${ styles.colors.secondary };
                 text-decoration: none;
+            }
+            
+            @media screen and (max-width: 539px) {
+            
+                .contentBody .shortDescription {
+                    font-size: 16px;
+                    margin-top: 25px;
+                }
+                
+                .contentBody .baseContent {
+                    padding-top: 15px;
+                    max-width: 300px;
+                }
+                
+                .contentBody .baseContent .navigation {
+                    padding: 0 15px;
+                }
+          
+                .contentBody .baseContent .navigation .navlink {
+                    font-size: 16px;
+                }
             }
         `}</style>
     </>

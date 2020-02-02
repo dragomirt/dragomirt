@@ -2,10 +2,15 @@ import React from 'react';
 import BaseLayout from "../components/BaseLayout";
 import NavigationHeader from "../components/NavigationHeader";
 import styles from "../config/styles";
+import {NextSeo} from "next-seo";
 
 class Archive extends React.Component {
     render () {
         return <BaseLayout>
+            <NextSeo
+                title="Archive — Dragomir Țurcanu"
+                description="Blog posts archive"
+            />
             <div className="activeBodyWrapper">
                 <NavigationHeader></NavigationHeader>
                 <h1 className="pageHeader">Archive</h1>
