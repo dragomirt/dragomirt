@@ -10991,7 +10991,7 @@ function (_React$Component) {
         },
         __self: this
       }, __jsx("div", {
-        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["2882830248", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]) + " " + 'activeBodyWrapper',
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]) + " " + 'activeBodyWrapper',
         __source: {
           fileName: _jsxFileName,
           lineNumber: 9
@@ -11004,14 +11004,14 @@ function (_React$Component) {
         },
         __self: this
       }), __jsx("h1", {
-        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["2882830248", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]) + " " + "pageHeader",
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]) + " " + "pageHeader",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 11
         },
         __self: this
       }, "About Me"), __jsx("div", {
-        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["2882830248", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]) + " " + "photo",
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]) + " " + "photo",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 12
@@ -11020,38 +11020,119 @@ function (_React$Component) {
       }, __jsx("img", {
         src: "/images/photo.jpg",
         alt: "My Photo",
-        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["2882830248", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
         __source: {
           fileName: _jsxFileName,
           lineNumber: 12
         },
         __self: this
       })), __jsx("p", {
-        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["2882830248", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]) + " " + "content",
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]) + " " + "content",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 13
         },
         __self: this
-      }, "Et imperdiet mi vulputate. Praesent et dui est. Nunc varius iaculis enim, vel venenatis mi. Fusce quis metus nulla. Cras auctor imperdiet porttitor. Nulla vel consequat ligula. Quisque mattis blandit turpis, nec porttitor est suscipit laoreet. Praesent at neque posuere, rhoncus urna nec, rhoncus elit. Duis eget ex nec odio dictum ullamcorper at quis magna. Curabitur nec sapien id leo posuere egestas eget sit amet quam. Praesent vestibulum est lorem, quis fringilla velit auctor elementum. Phasellus id diam nibh. Phasellus sollicitudin molestie est ac dignissim.", __jsx("br", {
-        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["2882830248", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+      }, "Hi there! As you might have noticed on the homepage, I do enjoy playing with various types and flavors of software, for fun and for a living. I have a keen interest in performance optimizations and intense computation ( image, video, and 3d manipulation ). Although throughout my career my main area of concern were web technologies, I'm enthusiastic about native platforms, hardware, and IoT.", __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 16
+          lineNumber: 15
         },
         __self: this
       }), __jsx("br", {
-        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["2882830248", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 15
+        },
+        __self: this
+      }), __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 15
+        },
+        __self: this
+      }), "From the age of 16 when I began working in tech, I have had the chance to meet a lot of deeply passionate and skillful professionals that have helped me enrich and expand my knowledge regarding the aforementioned topics. Today, I enjoy exploring new things about my craft and helping others in their beginnings.", __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
         __source: {
           fileName: _jsxFileName,
           lineNumber: 17
         },
         __self: this
-      }), "Praesent nisl purus, euismod eu accumsan non, ullamcorper eu nibh. Sed accumsan ullamcorper diam, ac vestibulum quam pretium et. Donec non neque accumsan, volutpat neque non, venenatis enim. Vivamus imperdiet nunc id auctor faucibus. Phasellus convallis, dui nec tempus tristique, ipsum elit molestie dolor, dignissim molestie sapien lorem eget nisi. Donec quis blandit mauris, vitae pharetra urna. Donec semper orci lectus, consectetur bibendum est pulvinar vel. Duis viverra non dolor id volutpat. In laoreet est non augue egestas consequat. Nulla facilisi. Sed tincidunt rutrum libero, eget pretium felis tristique a. Nullam nec vestibulum urna. Vestibulum in sapien sagittis, sagittis ex ut, lobortis diam. Integer vel quam laoreet, finibus urna eu, efficitur augue. Etiam elit neque, eleifend eu justo non, bibendum scelerisque lacus. Fusce elementum quam nec dui sodales egestas. Proin hendrerit neque nisl, id sagittis massa porta ut. Curabitur maximus hendrerit dui, eu malesuada ipsum dapibus nec. Vivamus non tellus ante. Integer finibus, justo et semper viverra, tortor libero accumsan dolor, sit amet efficitur risus eros quis dui. Phasellus imperdiet orci ut ante tincidunt, eget ullamcorper metus ultricies. Aliquam pulvinar lectus eros, mattis rhoncus quam molestie id. Maecenas posuere diam arcu, ut dignissim erat aliquet sed. Curabitur at blandit risus. Morbi ut libero ultricies nunc condimentum sodales. Mauris molestie mattis libero, id posuere justo elementum nec.")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a, {
-        id: "2882830248",
+      }), __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 17
+        },
+        __self: this
+      }), "Currently, enrolled in the \"Informational Management\" degree at the Computer Science department of the Technical University of Moldova.", __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18
+        },
+        __self: this
+      }), __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18
+        },
+        __self: this
+      }), __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18
+        },
+        __self: this
+      }), "My hobbies are running and cooking. I'm deeply convinced that my ", __jsx("a", {
+        href: "https://www.strava.com/activities/2858417572/overview",
+        target: "_blank",
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, "23:27 5k"), " is unbeatable. Prove me wrong :P", __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 20
+        },
+        __self: this
+      }), __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 20
+        },
+        __self: this
+      }), __jsx("br", {
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 20
+        },
+        __self: this
+      }), "You can usually find me in ", __jsx("a", {
+        href: "https://www.google.com/maps/place/Chisinau/data=!4m2!3m1!1s0x40c97c3628b769a1:0x37d1d6305749dd3c?sa=X&ved=2ahUKEwjQr4KP4LLnAhWHbFAKHVKuCRQQ8gEwG3oECBEQBA",
+        target: "_blank",
+        className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a.dynamic([["3029211717", [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight]]]),
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21
+        },
+        __self: this
+      }, "Chisinau, Moldova"), ".")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a, {
+        id: "3029211717",
         dynamic: [_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, _config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight],
         __self: this
-      }, ".activeBodyWrapper.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;max-width:540px;margin:auto;}.photo.__jsx-style-dynamic-selector{max-width:260px;max-height:260px;width:260px;height:260px;}.photo.__jsx-style-dynamic-selector img.__jsx-style-dynamic-selector{width:100%;object-fit:contain;}.pageHeader.__jsx-style-dynamic-selector{font-size:36px;color:".concat(_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, ";font-weight:").concat(_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, ";margin:40px auto;}p.content.__jsx-style-dynamic-selector{margin-top:75px;font-size:18px;color:").concat(_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, ";font-weight:").concat(_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, ";text-align:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kcmFnb21pcnR1cmNhbnUvd29ya3NwYWNlL2RyYWdvbWlydC9wYWdlcy9hYm91dC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUF1QndCLEFBR2tDLEFBV0csQUFRTCxBQUtJLEFBT0MsV0FYRyxJQUtnQixDQWJsQixBQW9CRixjQVhuQixDQVl1QyxFQW5CdkIsWUFDQyxLQVc0QixRQVY3QyxRQWtCNkMsUUFqQ2xCLGlCQTBCTixnQkFTQyxDQVJ0QixpQkFTQSxnREFuQzBCLDhFQUNILDZGQUVILGdCQUVKLFlBQ2hCIiwiZmlsZSI6Ii9Vc2Vycy9kcmFnb21pcnR1cmNhbnUvd29ya3NwYWNlL2RyYWdvbWlydC9wYWdlcy9hYm91dC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5pbXBvcnQgQmFzZUxheW91dCBmcm9tIFwiLi4vY29tcG9uZW50cy9CYXNlTGF5b3V0XCI7XG5pbXBvcnQgc3R5bGVzIGZyb20gXCIuLi9jb25maWcvc3R5bGVzXCI7XG5pbXBvcnQgTmF2aWdhdGlvbkhlYWRlciBmcm9tIFwiLi4vY29tcG9uZW50cy9OYXZpZ2F0aW9uSGVhZGVyXCI7XG5cbmNsYXNzIEFib3V0IGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHtcbiAgICByZW5kZXIgKCkge1xuICAgICAgICByZXR1cm4gPEJhc2VMYXlvdXQ+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0nYWN0aXZlQm9keVdyYXBwZXInPlxuICAgICAgICAgICAgICAgIDxOYXZpZ2F0aW9uSGVhZGVyPjwvTmF2aWdhdGlvbkhlYWRlcj5cbiAgICAgICAgICAgICAgICA8aDEgY2xhc3NOYW1lPVwicGFnZUhlYWRlclwiPkFib3V0IE1lPC9oMT5cbiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInBob3RvXCI+PGltZyBzcmM9XCIvaW1hZ2VzL3Bob3RvLmpwZ1wiIGFsdD1cIk15IFBob3RvXCIvPjwvZGl2PlxuICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT1cImNvbnRlbnRcIj5cbiAgICAgICAgICAgICAgICAgICAgRXQgaW1wZXJkaWV0IG1pIHZ1bHB1dGF0ZS4gUHJhZXNlbnQgZXQgZHVpIGVzdC4gTnVuYyB2YXJpdXMgaWFjdWxpcyBlbmltLCB2ZWwgdmVuZW5hdGlzIG1pLiBGdXNjZSBxdWlzIG1ldHVzIG51bGxhLiBDcmFzIGF1Y3RvciBpbXBlcmRpZXQgcG9ydHRpdG9yLiBOdWxsYSB2ZWwgY29uc2VxdWF0IGxpZ3VsYS4gUXVpc3F1ZSBtYXR0aXMgYmxhbmRpdCB0dXJwaXMsIG5lYyBwb3J0dGl0b3IgZXN0IHN1c2NpcGl0IGxhb3JlZXQuIFByYWVzZW50IGF0IG5lcXVlIHBvc3VlcmUsIHJob25jdXMgdXJuYSBuZWMsIHJob25jdXMgZWxpdC4gRHVpcyBlZ2V0IGV4IG5lYyBvZGlvIGRpY3R1bSB1bGxhbWNvcnBlciBhdCBxdWlzIG1hZ25hLiBDdXJhYml0dXIgbmVjIHNhcGllbiBpZCBsZW8gcG9zdWVyZSBlZ2VzdGFzIGVnZXQgc2l0IGFtZXQgcXVhbS4gUHJhZXNlbnQgdmVzdGlidWx1bSBlc3QgbG9yZW0sIHF1aXMgZnJpbmdpbGxhIHZlbGl0IGF1Y3RvciBlbGVtZW50dW0uIFBoYXNlbGx1cyBpZCBkaWFtIG5pYmguIFBoYXNlbGx1cyBzb2xsaWNpdHVkaW4gbW9sZXN0aWUgZXN0IGFjIGRpZ25pc3NpbS5cblxuICAgICAgICAgICAgICAgICAgICA8YnIvPlxuICAgICAgICAgICAgICAgICAgICA8YnIvPlxuICAgICAgICAgICAgICAgICAgICBQcmFlc2VudCBuaXNsIHB1cnVzLCBldWlzbW9kIGV1IGFjY3Vtc2FuIG5vbiwgdWxsYW1jb3JwZXIgZXUgbmliaC4gU2VkIGFjY3Vtc2FuIHVsbGFtY29ycGVyIGRpYW0sIGFjIHZlc3RpYnVsdW0gcXVhbSBwcmV0aXVtIGV0LiBEb25lYyBub24gbmVxdWUgYWNjdW1zYW4sIHZvbHV0cGF0IG5lcXVlIG5vbiwgdmVuZW5hdGlzIGVuaW0uIFZpdmFtdXMgaW1wZXJkaWV0IG51bmMgaWQgYXVjdG9yIGZhdWNpYnVzLiBQaGFzZWxsdXMgY29udmFsbGlzLCBkdWkgbmVjIHRlbXB1cyB0cmlzdGlxdWUsIGlwc3VtIGVsaXQgbW9sZXN0aWUgZG9sb3IsIGRpZ25pc3NpbSBtb2xlc3RpZSBzYXBpZW4gbG9yZW0gZWdldCBuaXNpLiBEb25lYyBxdWlzIGJsYW5kaXQgbWF1cmlzLCB2aXRhZSBwaGFyZXRyYSB1cm5hLiBEb25lYyBzZW1wZXIgb3JjaSBsZWN0dXMsIGNvbnNlY3RldHVyIGJpYmVuZHVtIGVzdCBwdWx2aW5hciB2ZWwuIER1aXMgdml2ZXJyYSBub24gZG9sb3IgaWQgdm9sdXRwYXQuIEluIGxhb3JlZXQgZXN0IG5vbiBhdWd1ZSBlZ2VzdGFzIGNvbnNlcXVhdC4gTnVsbGEgZmFjaWxpc2kuIFNlZCB0aW5jaWR1bnQgcnV0cnVtIGxpYmVybywgZWdldCBwcmV0aXVtIGZlbGlzIHRyaXN0aXF1ZSBhLiBOdWxsYW0gbmVjIHZlc3RpYnVsdW0gdXJuYS4gVmVzdGlidWx1bSBpbiBzYXBpZW4gc2FnaXR0aXMsIHNhZ2l0dGlzIGV4IHV0LCBsb2JvcnRpcyBkaWFtLiBJbnRlZ2VyIHZlbCBxdWFtIGxhb3JlZXQsIGZpbmlidXMgdXJuYSBldSwgZWZmaWNpdHVyIGF1Z3VlLlxuXG4gICAgICAgICAgICAgICAgICAgIEV0aWFtIGVsaXQgbmVxdWUsIGVsZWlmZW5kIGV1IGp1c3RvIG5vbiwgYmliZW5kdW0gc2NlbGVyaXNxdWUgbGFjdXMuIEZ1c2NlIGVsZW1lbnR1bSBxdWFtIG5lYyBkdWkgc29kYWxlcyBlZ2VzdGFzLiBQcm9pbiBoZW5kcmVyaXQgbmVxdWUgbmlzbCwgaWQgc2FnaXR0aXMgbWFzc2EgcG9ydGEgdXQuIEN1cmFiaXR1ciBtYXhpbXVzIGhlbmRyZXJpdCBkdWksIGV1IG1hbGVzdWFkYSBpcHN1bSBkYXBpYnVzIG5lYy4gVml2YW11cyBub24gdGVsbHVzIGFudGUuIEludGVnZXIgZmluaWJ1cywganVzdG8gZXQgc2VtcGVyIHZpdmVycmEsIHRvcnRvciBsaWJlcm8gYWNjdW1zYW4gZG9sb3IsIHNpdCBhbWV0IGVmZmljaXR1ciByaXN1cyBlcm9zIHF1aXMgZHVpLiBQaGFzZWxsdXMgaW1wZXJkaWV0IG9yY2kgdXQgYW50ZSB0aW5jaWR1bnQsIGVnZXQgdWxsYW1jb3JwZXIgbWV0dXMgdWx0cmljaWVzLiBBbGlxdWFtIHB1bHZpbmFyIGxlY3R1cyBlcm9zLCBtYXR0aXMgcmhvbmN1cyBxdWFtIG1vbGVzdGllIGlkLiBNYWVjZW5hcyBwb3N1ZXJlIGRpYW0gYXJjdSwgdXQgZGlnbmlzc2ltIGVyYXQgYWxpcXVldCBzZWQuIEN1cmFiaXR1ciBhdCBibGFuZGl0IHJpc3VzLiBNb3JiaSB1dCBsaWJlcm8gdWx0cmljaWVzIG51bmMgY29uZGltZW50dW0gc29kYWxlcy4gTWF1cmlzIG1vbGVzdGllIG1hdHRpcyBsaWJlcm8sIGlkIHBvc3VlcmUganVzdG8gZWxlbWVudHVtIG5lYy5cbiAgICAgICAgICAgICAgICA8L3A+XG4gICAgICAgICAgICA8L2Rpdj5cblxuICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICAgICAgICAgIC5hY3RpdmVCb2R5V3JhcHBlciB7XG4gICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgICAgICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICAgICAgICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgICAgICAgICAgICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICAgICAgICAgICAgICBcbiAgICAgICAgICAgICAgICAgICAgbWF4LXdpZHRoOiA1NDBweDtcbiAgICAgICAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgICAgIG1hcmdpbjogYXV0bztcbiAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgLnBob3RvIHtcbiAgICAgICAgICAgICAgICAgICAgbWF4LXdpZHRoOiAyNjBweDtcbiAgICAgICAgICAgICAgICAgICAgbWF4LWhlaWdodDogMjYwcHg7XG4gICAgICAgICAgICAgICAgICAgIFxuICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjYwcHg7XG4gICAgICAgICAgICAgICAgICAgIGhlaWdodDogMjYwcHg7XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIFxuICAgICAgICAgICAgICAgIC5waG90byBpbWcge1xuICAgICAgICAgICAgICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgICAgICAgICAgICAgb2JqZWN0LWZpdDogY29udGFpbjtcbiAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgLnBhZ2VIZWFkZXIge1xuICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDM2cHg7XG4gICAgICAgICAgICAgICAgICAgIGNvbG9yOiAke3N0eWxlcy5jb2xvcnMuYmxhY2t9O1xuICAgICAgICAgICAgICAgICAgICBmb250LXdlaWdodDogJHtzdHlsZXMuZm9udFNldHRpbmdzLmZvbnRXZWlnaHR9O1xuICAgICAgICAgICAgICAgICAgICBtYXJnaW46IDQwcHggYXV0bztcbiAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgcC5jb250ZW50IHtcbiAgICAgICAgICAgICAgICAgICAgbWFyZ2luLXRvcDogNzVweDtcbiAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiAxOHB4O1xuICAgICAgICAgICAgICAgICAgICBjb2xvcjogJHtzdHlsZXMuY29sb3JzLnNlY29uZGFyeX07XG4gICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiAke3N0eWxlcy5mb250U2V0dGluZ3MuZm9udFdlaWdodH07XG4gICAgICAgICAgICAgICAgICAgIFxuICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgYH08L3N0eWxlPlxuICAgICAgICA8L0Jhc2VMYXlvdXQ+XG4gICAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBBYm91dDsiXX0= */\n/*@ sourceURL=/Users/dragomirturcanu/workspace/dragomirt/pages/about.js */")));
+      }, ".activeBodyWrapper.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;max-width:540px;margin:auto;}.photo.__jsx-style-dynamic-selector{max-width:260px;max-height:260px;width:260px;height:260px;}.photo.__jsx-style-dynamic-selector img.__jsx-style-dynamic-selector{width:100%;object-fit:contain;}.pageHeader.__jsx-style-dynamic-selector{font-size:36px;color:".concat(_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.black, ";font-weight:").concat(_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, ";margin:40px auto;}p.content.__jsx-style-dynamic-selector{margin-top:75px;font-size:18px;color:").concat(_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].colors.secondary, ";font-weight:").concat(_config_styles__WEBPACK_IMPORTED_MODULE_8__["default"].fontSettings.fontWeight, ";text-align:left;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kcmFnb21pcnR1cmNhbnUvd29ya3NwYWNlL2RyYWdvbWlydC9wYWdlcy9hYm91dC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUF3QndCLEFBR2tDLEFBV0csQUFRTCxBQUtJLEFBT0MsV0FYRyxJQUtnQixDQWJsQixBQW9CRixjQVhuQixDQVl1QyxFQW5CdkIsWUFDQyxLQVc0QixRQVY3QyxRQWtCNkMsUUFqQ2xCLGlCQTBCTixnQkFTRCxDQVJwQixlQVNBLGtEQW5DMEIsOEVBQ0gsNkZBRUgsZ0JBRUosWUFDaEIiLCJmaWxlIjoiL1VzZXJzL2RyYWdvbWlydHVyY2FudS93b3Jrc3BhY2UvZHJhZ29taXJ0L3BhZ2VzL2Fib3V0LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JztcbmltcG9ydCBCYXNlTGF5b3V0IGZyb20gXCIuLi9jb21wb25lbnRzL0Jhc2VMYXlvdXRcIjtcbmltcG9ydCBzdHlsZXMgZnJvbSBcIi4uL2NvbmZpZy9zdHlsZXNcIjtcbmltcG9ydCBOYXZpZ2F0aW9uSGVhZGVyIGZyb20gXCIuLi9jb21wb25lbnRzL05hdmlnYXRpb25IZWFkZXJcIjtcblxuY2xhc3MgQWJvdXQgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiA8QmFzZUxheW91dD5cbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSdhY3RpdmVCb2R5V3JhcHBlcic+XG4gICAgICAgICAgICAgICAgPE5hdmlnYXRpb25IZWFkZXI+PC9OYXZpZ2F0aW9uSGVhZGVyPlxuICAgICAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9XCJwYWdlSGVhZGVyXCI+QWJvdXQgTWU8L2gxPlxuICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwicGhvdG9cIj48aW1nIHNyYz1cIi9pbWFnZXMvcGhvdG8uanBnXCIgYWx0PVwiTXkgUGhvdG9cIi8+PC9kaXY+XG4gICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPVwiY29udGVudFwiPlxuICAgICAgICAgICAgICAgICAgICBIaSB0aGVyZSEgQXMgeW91IG1pZ2h0IGhhdmUgbm90aWNlZCBvbiB0aGUgaG9tZXBhZ2UsIEkgZG8gZW5qb3kgcGxheWluZyB3aXRoIHZhcmlvdXMgdHlwZXMgYW5kIGZsYXZvcnMgb2Ygc29mdHdhcmUsIGZvciBmdW4gYW5kIGZvciBhIGxpdmluZy4gSSBoYXZlIGEga2VlbiBpbnRlcmVzdCBpbiBwZXJmb3JtYW5jZSBvcHRpbWl6YXRpb25zIGFuZCBpbnRlbnNlIGNvbXB1dGF0aW9uICggaW1hZ2UsIHZpZGVvLCBhbmQgM2QgbWFuaXB1bGF0aW9uICkuIEFsdGhvdWdoIHRocm91Z2hvdXQgbXkgY2FyZWVyIG15IG1haW4gYXJlYSBvZiBjb25jZXJuIHdlcmUgd2ViIHRlY2hub2xvZ2llcywgSSdtIGVudGh1c2lhc3RpYyBhYm91dCBuYXRpdmUgcGxhdGZvcm1zLCBoYXJkd2FyZSwgYW5kIElvVC5cbiAgICAgICAgICAgICAgICAgICAgPGJyLz48YnIvPjxici8+XG4gICAgICAgICAgICAgICAgICAgIEZyb20gdGhlIGFnZSBvZiAxNiB3aGVuIEkgYmVnYW4gd29ya2luZyBpbiB0ZWNoLCBJIGhhdmUgaGFkIHRoZSBjaGFuY2UgdG8gbWVldCBhIGxvdCBvZiBkZWVwbHkgcGFzc2lvbmF0ZSBhbmQgc2tpbGxmdWwgcHJvZmVzc2lvbmFscyB0aGF0IGhhdmUgaGVscGVkIG1lIGVucmljaCBhbmQgZXhwYW5kIG15IGtub3dsZWRnZSByZWdhcmRpbmcgdGhlIGFmb3JlbWVudGlvbmVkIHRvcGljcy4gVG9kYXksIEkgZW5qb3kgZXhwbG9yaW5nIG5ldyB0aGluZ3MgYWJvdXQgbXkgY3JhZnQgYW5kIGhlbHBpbmcgb3RoZXJzIGluIHRoZWlyIGJlZ2lubmluZ3MuXG4gICAgICAgICAgICAgICAgICAgIDxici8+PGJyLz5DdXJyZW50bHksIGVucm9sbGVkIGluIHRoZSBcIkluZm9ybWF0aW9uYWwgTWFuYWdlbWVudFwiIGRlZ3JlZSBhdCB0aGUgQ29tcHV0ZXIgU2NpZW5jZSBkZXBhcnRtZW50IG9mIHRoZSBUZWNobmljYWwgVW5pdmVyc2l0eSBvZiBNb2xkb3ZhLlxuICAgICAgICAgICAgICAgICAgICA8YnIvPjxici8+PGJyLz5cbiAgICAgICAgICAgICAgICAgICAgTXkgaG9iYmllcyBhcmUgcnVubmluZyBhbmQgY29va2luZy4gSSdtIGRlZXBseSBjb252aW5jZWQgdGhhdCBteSA8YSBocmVmPVwiaHR0cHM6Ly93d3cuc3RyYXZhLmNvbS9hY3Rpdml0aWVzLzI4NTg0MTc1NzIvb3ZlcnZpZXdcIiB0YXJnZXQ9XCJfYmxhbmtcIj4yMzoyNyA1azwvYT4gaXMgdW5iZWF0YWJsZS4gUHJvdmUgbWUgd3JvbmcgOlBcbiAgICAgICAgICAgICAgICAgICAgPGJyLz48YnIvPjxici8+XG4gICAgICAgICAgICAgICAgICAgIFlvdSBjYW4gdXN1YWxseSBmaW5kIG1lIGluIDxhIGhyZWY9XCJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvQ2hpc2luYXUvZGF0YT0hNG0yITNtMSExczB4NDBjOTdjMzYyOGI3NjlhMToweDM3ZDFkNjMwNTc0OWRkM2M/c2E9WCZ2ZWQ9MmFoVUtFd2pRcjRLUDRMTG5BaFdIYkZBS0hWS3VDUlFROGdFd0czb0VDQkVRQkFcIiB0YXJnZXQ9XCJfYmxhbmtcIj5DaGlzaW5hdSwgTW9sZG92YTwvYT4uXG4gICAgICAgICAgICAgICAgPC9wPlxuICAgICAgICAgICAgPC9kaXY+XG5cbiAgICAgICAgICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgICAgICAgICAuYWN0aXZlQm9keVdyYXBwZXIge1xuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgICAgICAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgICAgICAgICAgICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgICAgIG1heC13aWR0aDogNTQwcHg7XG4gICAgICAgICAgICAgICAgICAgIFxuICAgICAgICAgICAgICAgICAgICBtYXJnaW46IGF1dG87XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIFxuICAgICAgICAgICAgICAgIC5waG90byB7XG4gICAgICAgICAgICAgICAgICAgIG1heC13aWR0aDogMjYwcHg7XG4gICAgICAgICAgICAgICAgICAgIG1heC1oZWlnaHQ6IDI2MHB4O1xuICAgICAgICAgICAgICAgICAgICBcbiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDI2MHB4O1xuICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDI2MHB4O1xuICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICBcbiAgICAgICAgICAgICAgICAucGhvdG8gaW1nIHtcbiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgICAgICAgICAgICAgIG9iamVjdC1maXQ6IGNvbnRhaW47XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIFxuICAgICAgICAgICAgICAgIC5wYWdlSGVhZGVyIHtcbiAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiAzNnB4O1xuICAgICAgICAgICAgICAgICAgICBjb2xvcjogJHtzdHlsZXMuY29sb3JzLmJsYWNrfTtcbiAgICAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6ICR7c3R5bGVzLmZvbnRTZXR0aW5ncy5mb250V2VpZ2h0fTtcbiAgICAgICAgICAgICAgICAgICAgbWFyZ2luOiA0MHB4IGF1dG87XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIFxuICAgICAgICAgICAgICAgIHAuY29udGVudCB7XG4gICAgICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDc1cHg7XG4gICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMThweDtcbiAgICAgICAgICAgICAgICAgICAgY29sb3I6ICR7c3R5bGVzLmNvbG9ycy5zZWNvbmRhcnl9O1xuICAgICAgICAgICAgICAgICAgICBmb250LXdlaWdodDogJHtzdHlsZXMuZm9udFNldHRpbmdzLmZvbnRXZWlnaHR9O1xuICAgICAgICAgICAgICAgICAgICBcbiAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDtcbiAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICBgfTwvc3R5bGU+XG4gICAgICAgIDwvQmFzZUxheW91dD5cbiAgICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IEFib3V0OyJdfQ== */\n/*@ sourceURL=/Users/dragomirturcanu/workspace/dragomirt/pages/about.js */")));
     }
   }]);
 
@@ -11062,7 +11143,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 2:
 /*!*******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=%2FUsers%2Fdragomirturcanu%2Fworkspace%2Fdragomirt%2Fpages%2Fabout.js ***!
   \*******************************************************************************************************************************************/
@@ -11085,5 +11166,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=about.js.map
