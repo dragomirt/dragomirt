@@ -15,9 +15,7 @@ class BaseLayout extends React.Component {
                 justify-content: center;
                 align-items: center;
                 
-                min-height: calc(100vh);
-                
-                padding: 25px;
+                min-height: 100%;
             }
             
             .bodyWrapper {
@@ -26,12 +24,21 @@ class BaseLayout extends React.Component {
             }
         `}</style>
 
-            <style jsx global>{`
+        <style jsx global>{`
                 
-                body {
-                    margin: 0;
-                    font-family: ${styles.fontSettings.fontFamilySerif};
-                }
+              html,
+              body,
+              #__next {
+                height: 100%;
+                width: 100%;
+              }
+            
+            body {
+                margin: 0 !important;
+                box-sizing: border-box;
+                padding: 25px;
+                font-family: ${styles.fontSettings.fontFamilySerif};
+            }
                 
         `}</style>
         </div>

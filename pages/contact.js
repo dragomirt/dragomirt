@@ -16,25 +16,27 @@ class Contact extends React.Component {
                 <h1 className="pageHeader">Contact</h1>
                 <div className="content">
                     <table>
-                        <tr>
-                            <td>email</td>
-                            <td>dtu@dragomir.com</td>
-                        </tr>
+                        <tbody>
+                            <tr>
+                                <td>email</td>
+                                <td>dtu@dragomir.com</td>
+                            </tr>
 
-                        <tr>
-                            <td>github</td>
-                            <td><a href="https://github.com/dragomirt" target="_blank">https://github.com/dragomirt</a></td>
-                        </tr>
+                            <tr>
+                                <td>github</td>
+                                <td><a href="https://github.com/dragomirt" target="_blank">https://github.com/dragomirt</a></td>
+                            </tr>
 
-                        <tr>
-                            <td>twitter</td>
-                            <td><a href="https://twitter.com/dragomirturcanu" target="_blank">@dragomirturcanu</a></td>
-                        </tr>
+                            <tr>
+                                <td>twitter</td>
+                                <td><a href="https://twitter.com/dragomirturcanu" target="_blank">@dragomirturcanu</a></td>
+                            </tr>
 
-                        <tr>
-                            <td>linkedin</td>
-                            <td><a href="https://www.linkedin.com/in/dragomirt/" target="_blank">https://www.linkedin.com/in/dragomirt/</a></td>
-                        </tr>
+                            <tr>
+                                <td>linkedin</td>
+                                <td><a href="https://www.linkedin.com/in/dragomirt/" target="_blank">https://www.linkedin.com/in/dragomirt/</a></td>
+                            </tr>
+                        </tbody>
                     </table>
                 </div>
             </div>
