@@ -19,7 +19,7 @@ class Contact extends React.Component {
                         <tbody>
                             <tr>
                                 <td>email</td>
-                                <td>dtu@dragomir.com</td>
+                                <td>dtu@dragomirt.com</td>
                             </tr>
 
                             <tr>
