@@ -8,7 +8,7 @@ class Archive extends React.Component {
     render () {
         return <BaseLayout>
             <NextSeo
-                title="Archive — Dragomir Țurcanu"
+                title="Blog — Dragomir Țurcanu"
                 description="Blog posts archive"
             />
             <div className="activeBodyWrapper">

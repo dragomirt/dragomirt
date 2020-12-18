@@ -22,12 +22,12 @@ const Homepage = () => (
 
             <div className="contentBody">
                 <p className="shortDescription">Full stack software engineer and tech enthusiast. <br/><br/>
-                    I enjoy making CLI tools, APIs and high performance web applications. Mostly PHP and NodeJS.</p>
+                    I enjoy making Web Apps, APIs and command line tools. Mostly PHP and Javascript.</p>
 
                 <div className="baseContent">
                     <div className="navigation">
-                        <Link href="/archive" as={`/archive`}>
-                            <a className="navlink">Archive</a>
+                        <Link href="https://practicalphp.dev/">
+                            <a className="navlink">Blog</a>
                         </Link>
 
                         <Link href="/about" as={`/about`}>
