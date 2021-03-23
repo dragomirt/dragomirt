@@ -9,7 +9,7 @@ class About extends React.Component {
         return <BaseLayout>
             <NextSeo
                 title="About — Dragomir Țurcanu"
-                description="Dragomir Țurcanu, Software Engineer in Chisinau."
+                description="Dragomir Țurcanu, Software Engineer"
             />
             <div className='activeBodyWrapper'>
                 <NavigationHeader></NavigationHeader>

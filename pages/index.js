@@ -3,6 +3,7 @@ import styles from "../config/styles";
 import Link from "next/link";
 import RecentPosts from "../components/RecentPosts";
 import { NextSeo } from 'next-seo';
+import React from "react";
 
 /**
  * @return {string}
@@ -12,12 +13,12 @@ const Homepage = () => (
     <>
         <NextSeo
             title="Dragomir Țurcanu"
-            description="Dragomir Țurcanu, Software Engineer in Chisinau."
+            description="Dragomir Țurcanu, Software Engineer"
         />
         <BaseLayout>
             <div className="headerBlock">
                 <h1 className="nameHeader">Dragomir Țurcanu</h1>
-                <span className="nameTag"><a href="https://twitter.com/dragomirturcanu" target="_blank">@dragomirturcanu</a></span>
+                <span className="nameTag"><a href="https://www.linkedin.com/in/dragomirt/" target="_blank">@dragomirt</a></span>
             </div>
 
             <div className="contentBody">
