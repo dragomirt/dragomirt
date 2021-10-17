@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+{# {{ content | safe }} #}
+
+<div class="container" style="margin: 0 auto; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <img style="width: 12rem; height: 12rem; border-radius: 50%;" src="/images/dragomir.jpg" alt="Dragomir"/>
+
+    <h1 style="text-align: center;">Dragomir Țurcanu</h1>
+    <h3 style="text-align: center;">Curious. Making websites for a living. Mostly PHP and Javascript.<h3>
+
+    <div style="margin-top: 3rem;">
+        {{ content | safe }}
+    </div>
+    
+</div>
