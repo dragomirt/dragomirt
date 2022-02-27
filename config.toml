@@ -2,3 +2,25 @@ baseURL = 'https://dragomirt.com/'
 languageCode = 'en-us'
 title = 'Dragomir Țurcanu'
 theme = 'mini'
+
+defaultContentLanguage = "en"
+
+
+[ params ]
+
+  author = "dragomirt"
+  bio = "Full stack software engineer and tech enthusiast. \n\n I enjoy making Web Apps, APIs and command line tools. Mostly PHP and Javascript."
+  description = "Full stack software engineer and tech enthusiast. \n I enjoy making Web Apps, APIs and command line tools. Mostly PHP and Javascript."
+  enableRSS = false
+  enableComments = true
+#   enableGoogleAnalytics: true
+    showPowerBy = false
+    showToc = true
+
+
+[ social ]
+  # e.g.
+  github = "https://github.com/dragomirt"
+  twitter = "https://twitter.com/dragomirturcanu"
+#   stackoverflow: your-github-link
+  # facebook: your-facebook-link
