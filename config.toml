@@ -1,0 +1,4 @@
+baseURL = 'https://dragomirt.com/'
+languageCode = 'en-us'
+title = 'Dragomir Țurcanu'
+theme = 'mini'
