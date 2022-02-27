@@ -24,13 +24,13 @@ The best tool for the job would be the browser's inspector, but how does one spi
 
 On accessing [chrome://inspect](chrome://inspect), I'm greeted with a screen showcasing my local devices. In case I create a virtual machine, connect via USB or wireless network, a target devices gets added to the list. If chrome or google web view exists on the device, the instance is displayed within the page. It enables us to use some cool features, such as **inspecting**, **pausing** and **reloading** the particular page, without even touching the device.
 
-![](images/Screen-Shot-2020-12-17-at-01.24.00-1-1024x599.png)
+![](/images/chrome-inspect-for-virtual-devices/Screen-Shot-2020-12-17-at-01.24.00-1-1024x599.png)
 
 chrome://inspect page
 
 IMHO the most useful feature for a web developer is inspection, because it allows us to see some usually unreacheable parts of the website for a regular mobile user. To do that, simply click on inspect and a new window will popup with all the familiar tools.
 
-![](images/Screen-Shot-2020-12-17-at-01.28.48-1024x825.png)
+![](/images/chrome-inspect-for-virtual-devices/Screen-Shot-2020-12-17-at-01.28.48-1024x825.png)
 
 Inspect demo
 

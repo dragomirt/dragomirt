@@ -19,7 +19,7 @@ Modern software development requires sophisticated and highly specialized tools 
 
 * * *
 
-![Xdebug - Wikipedia](images/1200px-Xdebug_Logo.svg.png)
+![Xdebug - Wikipedia](/images/configuring-xdebug-for-phpstorm/1200px-Xdebug_Logo.svg.png)
 
 Xdebug
 
@@ -38,8 +38,6 @@ No more **_echo_**\-ing the variables, and guessing values. With XDebug you have
 ## PHPStorm
 
 * * *
-
-![File:PhpStorm Logo.svg - Wikimedia Commons](images/1200px-PhpStorm_Logo.svg.png)
 
 PHPStorm
 
@@ -97,7 +95,7 @@ sudo apt-get install -y php-xdebug
 
 Further configuration is done within the php extension. The extension file for xdebug is located at: `**<php path>/mods-available/xdebug.ini**`. To find out where is your php installation, you can run a quick \``**php -i | grep php.ini**`\`.
 
-![](images/Screen-Shot-2020-11-24-at-00.39.25.png)
+![](/images/configuring-xdebug-for-phpstorm/Screen-Shot-2020-11-24-at-00.39.25.png)
 
 Finding out the PHP path
 
@@ -116,7 +114,7 @@ xdebug.max_nesting_level=1000
 
 To find out which **remote\_host** is used, you can run `**ip a**` or `**ifconfig**` in case of a UNIX system. In case of Debian, the first option is the right one, so the following is acceptable
 
-![](images/Screen-Shot-2020-11-24-at-00.49.05.png)
+![](/images/configuring-xdebug-for-phpstorm/Screen-Shot-2020-11-24-at-00.49.05.png)
 
 Remote address
 
@@ -133,14 +131,14 @@ And in a short while, the changes will be applied.
 On this step we are dealing with PHPStorm.  
 The first and foremost thing to do, is to access preferences. To do that quickly on Mac, just press **CMD+,**. Once in settings, search for **_Debug_**. It will return a tab containing everything we need for now.
 
-![](images/Screen-Shot-2020-11-24-at-00.55.31-1-1024x671.png)
+![](/images/configuring-xdebug-for-phpstorm/Screen-Shot-2020-11-24-at-00.55.31-1-1024x671.png)
 
 Debug setting window
 
 In most cases, the port and connection preferences defined by default would be the best fitting ones for your use case. To quickly check whether everything worked, below the **"1.** Install XDebug or Zend Debugger", there is a button which states "**Validate**". By clicking that, a new window will popup with a quick config for the test and a response from the server.  
   
 
-![](images/Screen-Shot-2020-12-15-at-23.42.31.png)
+![](/images/configuring-xdebug-for-phpstorm/Screen-Shot-2020-12-15-at-23.42.31.png)
 
 Successful configuration popup
 
@@ -152,25 +150,25 @@ The path depends on the project, and in this particular example, I use a Laravel
 
 To smoke test these settings, let's add a breakpoint to **return** statement of the homepage controller. It means that once we head to the homepage of the local website, the breakpoint will trigger, halt the application till further action, and show everything stored in the current session. Let's try it:  
 
-![](images/Screen-Shot-2020-12-16-at-00.20.29.png)
+![](/images/configuring-xdebug-for-phpstorm/Screen-Shot-2020-12-16-at-00.20.29.png)
 
 Breakpoint location
 
 Once I finally refresh the page, the editor window changes by adding some notes regarding the types and structure of the used properties and variables, as well as highlight the current position in the execution.
 
-![](images/Screen-Shot-2020-12-16-at-00.21.17-1-1024x546.png)
+![](/images/configuring-xdebug-for-phpstorm/Screen-Shot-2020-12-16-at-00.21.17-1-1024x546.png)
 
 Modified editor window
 
 In the **Debug** window ( **CMD+5** ), a neat looking table and variable trees are located, which are there to reveal crucial information regarding the current state of the application. The history of function calls, values of variables and console output.
 
-![](images/Screen-Shot-2020-12-16-at-00.25.42-1024x394.png)
+![](/images/configuring-xdebug-for-phpstorm/Screen-Shot-2020-12-16-at-00.25.42-1024x394.png)
 
 Debug window
 
 Once we are done with reviewing the current frame, we can jump to the next breakpoint by hitting the green arrow, or by pressing **CMD+ALT+R.**
 
-![](images/Screen-Shot-2020-12-16-at-00.28.01.png)
+![](/images/configuring-xdebug-for-phpstorm/Screen-Shot-2020-12-16-at-00.28.01.png)
 
 Resume execution
 
