@@ -20,7 +20,7 @@ Is the question I asked myself not that long ago. I was fiddling around with CLI
 
 The tool which allows the magick to happen is called **"[ocrmypdf](https://ocrmypdf.readthedocs.io/en/latest/)"**
 
-![](https://practicalphp.dev/wp-content/uploads/2021/07/ocrmypdf.svg)
+![](/images/pdf-to-plain-text-with-ocr/ocrmypdf.svg)
 
 (https://ocrmypdf.readthedocs.io/en/latest/) which does just that, reads and embeds actual plaintext data within the bare PDF, using the tesseract ocr tool and its language packages.
 

@@ -77,13 +77,13 @@ And save the file. The selected address for this setup is **192.168.22.10** is t
 
 After all these steps, when you head to **phpmyadmin.test** in your browser, the application starts up as normal.
 
-![](images/Screen-Shot-2021-02-28-at-11.58.41-1024x796.png)
+![](/images/homestead-phpmyadmin/Screen-Shot-2021-02-28-at-11.58.41-1024x796.png)
 
 The default credentials for **Homestead**, as of version 12.0, are:
 
 **Username:** homestead  
 **Password:** secret
 
-![](images/Screen-Shot-2021-02-28-at-12.04.14-1024x758.png)
+![](/images/homestead-phpmyadmin/Screen-Shot-2021-02-28-at-12.04.14-1024x758.png)
 
 **Enjoy!**

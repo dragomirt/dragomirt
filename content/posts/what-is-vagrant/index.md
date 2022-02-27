@@ -21,7 +21,7 @@ Although it's not that new and shiny anymore, it solves an array of problems rel
 
 Everyone, at some point has gone through such a situation, when your build works just fine, but your colleague struggles with some bizarre \`composer install\``,` a behemoth of an \`npm i\` error, or he/she might not even had redis, or imagick or whatever mission-critical tool installed on their machine.
 
-![](images/Works-On-My-Machine-987x1024.jpg)
+![](/images/what-is-vagrant/Works-On-My-Machine-987x1024.jpg)
 
 True to life representation of development pain.
 
@@ -48,7 +48,7 @@ and some other plugin-based providers, such as
 - Parallels ( available for Mac )
 - VMWare
 
-![Hostodo Virtual Machines on Twitter: "#LazyDevsBeLike… "](images/C_9tM81UQAI7V1F.jpg)
+![Hostodo Virtual Machines on Twitter: "#LazyDevsBeLike… "](/images/what-is-vagrant/C_9tM81UQAI7V1F.jpg)
 
 Basically what happens :D
 
@@ -113,7 +113,7 @@ sudo apt install virtualbox
 
 #### So, let's dive:
 
-![](images/Screen-Shot-2020-11-11-at-09.34.05.png)
+![](/images/what-is-vagrant/Screen-Shot-2020-11-11-at-09.34.05.png)
 
 I have created an empty directory, which will serve as a blank slate for the demonstration.
 
@@ -133,7 +133,7 @@ The Vagrantfile contains the configuration of the virtual machine that is to be 
 How do I tell the file what and how to use? Easy, in Ruby :D  
 In our case, the config for a Debian box, with the routed address to 192.168.33.11, nfs file sync and provision file as provision.sh in the root, will look like this:
 
-![](images/Screen-Shot-2020-11-11-at-09.50.05-1.png)
+![](/images/what-is-vagrant/Screen-Shot-2020-11-11-at-09.50.05-1.png)
 
 Sample Vagrantfile setup
 
@@ -203,7 +203,7 @@ vagrant up
 
 In the same directory in which the Vagrantfile is located. It has to look like this:
 
-![](images/Screen-Shot-2020-11-15-at-20.29.25-1024x758.png)
+![](/images/what-is-vagrant/Screen-Shot-2020-11-15-at-20.29.25-1024x758.png)
 
 Initial Vagrant up install
 
@@ -229,7 +229,7 @@ print_r($arr);
 </pre>
 ```
 
-![](images/Screen-Shot-2020-11-15-at-20.40.46-1024x660.png)
+![](/images/what-is-vagrant/Screen-Shot-2020-11-15-at-20.40.46-1024x660.png)
 
 PHP interpretation demo
 

@@ -67,7 +67,7 @@ source ~/.profile # to have the command easily accessible from the shell
 
 After you pulled the binary from above, check the install by running the usual \`--version\` argument to be sure that everything got installed as supposed.
 
-![](images/Screen-Shot-2020-11-16-at-21.51.52-1-1024x713.png)
+![](/images/how-to-switch-node-version-on-the-fly/Screen-Shot-2020-11-16-at-21.51.52-1-1024x713.png)
 
 nvm --version demo
 
@@ -97,7 +97,7 @@ Managing all those versions is hard, but to combat that issue, nvm has the ls-re
 nvm ls-remote
 ```
 
-![](images/Screen-Shot-2020-11-18-at-09.55.54-1024x603.png)
+![](/images/how-to-switch-node-version-on-the-fly/Screen-Shot-2020-11-18-at-09.55.54-1024x603.png)
 
 nvm ls-remote
 
