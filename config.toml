@@ -17,6 +17,10 @@ defaultContentLanguage = "en"
     showPowerBy = false
     showToc = true
 
+    customCSS = [
+        "css/custom.css"
+        ]
+
 
 [ social ]
   # e.g.
