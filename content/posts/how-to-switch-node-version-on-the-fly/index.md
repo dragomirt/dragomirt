@@ -49,7 +49,7 @@ A personal situation that I have encountered was while compiling **Gulp 2**. It 
 
 With **Homebrew** installed it is as easy as running in the terminal:
 
-```
+```bash
 brew install nvm
 ```
 
@@ -57,7 +57,7 @@ brew install nvm
 
 The installation process for a **Debian** based machine, looks like this:
 
-```
+```bash
 sudo apt install curl 
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 source ~/.profile # to have the command easily accessible from the shell
@@ -79,13 +79,13 @@ nvm --version demo
 
 In case of a clean system, first of all, you'll need to have node installed to run any project. To achieve that, run the following:
 
-```
+```bash
 nvm install node # "node" is an alias for the latest version
 ```
 
 Ok, that was for latest build, if you'd like to have a specific version, use the following syntax:
 
-```
+```bash
 nvm install 10.19 # or 12.2.1, 8.9.1, etc
 ```
 
@@ -93,7 +93,7 @@ nvm install 10.19 # or 12.2.1, 8.9.1, etc
 
 Managing all those versions is hard, but to combat that issue, nvm has the ls-remote command, which showcases in an ordered list, all the available, installed and special editions of the runtime.
 
-```
+```bash
 nvm ls-remote
 ```
 
@@ -103,7 +103,7 @@ nvm ls-remote
 
 And finally, to switch the version itself, run:
 
-```
+```bash
 # nvm use <version>
 nvm use 10.19 # switches to 10.19.0
 ```

@@ -22,7 +22,7 @@ That's why you have to use a supervisor. A supervisor is a tool which makes sure
 The supervisor itself it a tool, which lives within the actual infrastructure of the project, rather than the application side of things. Therefore, depending on where you plan to deploy or develop your application, some things may vary.  
 Below I'm going to describe the necessary dependencies needed for a basic **Ubuntu 20.04** server machine which you most likely will find under the hood of most projects.
 
-```
+```bash
 # Pull the latest package remotes
 sudo apt-get update 
 
@@ -36,13 +36,13 @@ Once you have that installed, and the bash ( or whatever shell you run ) restart
 
 The configuration files are stored in the \`**/etc/supervisor/conf.d**\` directory. To append a new application, just create a file with a suggestive name.
 
-```
+```bash
 touch my-laravel-queue.conf
 ```
 
 Once you have that done, open the file ( **with root privileges** ) and insert the following boilerplate.
 
-```
+```bash
 [program:my-laravel-worker]
 process_name=%(program_name)s_%(process_num)02d
 command=php /home/<your_user>/<your_app_location>/artisan queue:work --sleep=3 --tries=3 --max-time=3600
@@ -73,7 +73,7 @@ Once you have done all of that you can save the file.
 
 Now, when you have configured the processes the way you like them the most, it's time to write all the changes into the local register. To do that, run the following commands.
 
-```
+```bash
 # Read the new or changed configuration files
 sudo supervisorctl reread
 
@@ -83,7 +83,7 @@ sudo supervisorctl update
 
 If no error occurs, the next step is to run the processes themselves, supervised based on the configuration above.
 
-```
+```bash
 sudo supervisorctl start my-laravel-worker:*
 ```
 
@@ -96,7 +96,7 @@ To check the status of certain processes, you can run the \` **_sudo supervisorc
 
 **_P.S. When you change something within the Jobs inside the application, you have to re-run always have to re-run the queue. To do that, a good practice would be to restart it after each deployment, just like that:_**
 
-```
+```bash
 sudo supervisorctl restart my-laravel-worker:*
 ```
 

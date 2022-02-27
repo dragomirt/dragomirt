@@ -19,7 +19,7 @@ For quite some time I've been using objects in a wrong way. Every time after a *
   
 But after some research, a new way of doing this caught my eye. Apparently if you write down the key within a couple **{}** it can be typed as if it were a string. Looks something like this:
 
-```
+```php
 // use the same key
 $obj = (object) array("1my-sample$-key" => "hi there!");
 

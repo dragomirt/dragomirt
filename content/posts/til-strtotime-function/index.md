@@ -19,7 +19,7 @@ coverImage: "TIL_-strtotime-1.png"
 
 While researching the \`setcookie\` function, another one caught my eye. Apparently, instead of writing the time of expiration in unix seconds, you can use human-readable format, neatly parsed by **strtotime()** !
 
-```
+```php
 <?php
 
 echo strtotime("+1min") === time() + 60; // true

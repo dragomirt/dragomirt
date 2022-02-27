@@ -26,10 +26,10 @@ The tool which allows the magick to happen is called **"[ocrmypdf](https://ocrmy
 
 For files with digitaly rendered text, the results so far were very good. Even text from images is recognized, since to perform the recognition, the pdf is rasterized and scanned as an image. Cool stuff ;)
 
-To merge those both tegether, we could use a simple UNIX pipe as in the following command.
+To merge those both together, we could use a simple UNIX pipe as in the following command.
 
-```
-ocrmypdf —force-pdf file.pdf file.pdf && pdftotext -layout file.pdf && cat file.txt
+```bash
+ocrmypdf --force-pdf file.pdf file.pdf && pdftotext -layout file.pdf && cat file.txt
 ```
 
 That would give us the plaintext contents of the file.pdf
@@ -46,13 +46,13 @@ To use it, simply install the revamped [package](https://github.com/dragomirt/pd
 
 To achieve that, within your project run the following
 
-```
+```bash
 composer require dragomirt/pdf-to-text
 ```
 
 On your production machine, the dependencies have to be installed. To achieve that, please run the following. This example is for a Debian-based system.
 
-```
+```bash
 apt-get udpate
 apt-get install tesseract-ocr ocrmypdf -y
 apt-get intsall qpdf -y
@@ -60,14 +60,14 @@ apt-get intsall qpdf -y
 
 Once done that, you can require \`Spatie\\PdfToText\\Pdf\` into your project and run the actual extraction as follows.
 
-```
-            $text = (new Pdf())
-                ->setPdf($path)
-                ->setOptions(['layout'])
-                ->setScanOptions(['-l eng', '--skip-text'])
-                ->decrypt()
-                ->scan()
-                ->text();
+```php
+$text = (new Pdf())
+    ->setPdf($path)
+    ->setOptions(['layout'])
+    ->setScanOptions(['-l eng', '--skip-text'])
+    ->decrypt()
+    ->scan()
+    ->text();
 ```
 
 Enjoy!

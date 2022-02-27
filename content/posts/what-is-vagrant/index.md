@@ -61,19 +61,19 @@ If you like package managers, here are some some examples:
 
 **Mac / Brew:**
 
-```
+```bash
 brew cask install vagrant
 ```
 
 **Windows / Chocolatey:**
 
-```
+```bash
 choco install vagrant
 ```
 
 **Ubuntu / Aptitude:**
 
-```
+```bash
 curl -O https://releases.hashicorp.com/vagrant/2.2.9/vagrant_2.2.9_x86_64.deb
 sudo apt install ./vagrant_2.2.9_x86_64.deb
 ```
@@ -95,19 +95,19 @@ Or via package managers:
 
 **Mac / Brew:**
 
-```
+```bash
 brew cask install virtualbox
 ```
 
 **Windows / Chocolatey**:
 
-```
+```bash
 choco install virtualbox
 ```
 
 **Ubuntu / Aptitude:**
 
-```
+```bash
 sudo apt install virtualbox
 ```
 
@@ -119,7 +119,7 @@ I have created an empty directory, which will serve as a blank slate for the dem
 
 #### The main file for any Vagrant installation is the \`**Vagrantfile**\`, therefore let's have it created. We can do that by using the following command on any UNIX based system:
 
-```
+```bash
 touch Vagrantfile
 ```
 
@@ -139,7 +139,7 @@ Sample Vagrantfile setup
 
 Step by step, that is what is happening here:
 
-```
+```ruby
 # Sets the vagrant version, for legacy purposes.
 # All modern setups use the version "2"
 Vagrant.configure("2") do |config|
@@ -169,7 +169,7 @@ The provision.sh file, mentioned at the end of the config, is supposed to contai
 For our use case, the required services for a base php app are the server and the interpreter. Without further to do, let's write that down.  
 In this example, you can find the setup for Apache and PHP 7.4.
 
-```
+```bash
 #!/usr/bin/env bash
 
 # Global variable for non-interactive prompt support
@@ -197,7 +197,7 @@ echo "Provisioning done :D!"
 Once the file is created, you can create the box!  
 To achieve that, run:
 
-```
+```bash
 vagrant up
 ```
 
@@ -210,7 +210,7 @@ Initial Vagrant up install
 Once you've got everything up, it's time to test. Let's create a demo php file to check if we achieved what we wanted, a.k.a php interpretation inside the VM.  
 Create a index.php file in the same directory, and fill it up with some sample source code:
 
-```
+```php
 <pre>
 <?php
 echo "Echo demo:";

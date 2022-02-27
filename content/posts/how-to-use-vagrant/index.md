@@ -63,7 +63,7 @@ Vagrantfile and provision.sh
 
 These are the settings based on which the provider creates the VM. Here you can change the amount of available RAM, CPU cores, network address, storage syncing and much more. These are explained in [another article](https://practicalphp.dev/what-is-vagrant/).
 
-```
+```ruby
 Vagrant.configure("2") do |config|
 
     config.vm.provider "virtualbox" do |v|
@@ -85,7 +85,7 @@ end
 
 This is the place where everything gets installed on the first run. When you will deploy your project to the production environment, you can use snippets from this very file to install the required tools and settings for where the application rolls out. It is up to you to decide what to add here, since it's really just an automated command prompt. Everything you can do in a term, can be replicated here.
 
-```
+```bash
 #!/usr/bin/env bash
 
 # Use single quotes instead of double quotes to make it work with special-character passwords

@@ -15,7 +15,7 @@ coverImage: "yoda.jpeg"
 
 Yoda conditions are a programming style, which goal is to prevent accidental assignments of variables within conditionals. Such as in the following situations.
 
-```
+```php
 while ($my_var = false) {
   // this will lead to an infinite loop
 }
@@ -31,7 +31,7 @@ To prevent that, the constant is placed at the forefront of the statement, there
 
 So let's fix the example from above using this method.
 
-```
+```php
 while (false === $my_var) {
   // this will make sure that the variable is false
 }
@@ -52,7 +52,7 @@ Besides being only a preference, this way of writing conditions is a part of the
 
 Besides the obvious fact that it might prevent some errors, I think that it makes the code be even more readable since the expected result of the operation is showcased right at the beginning of the statement.
 
-```
+```php
 if (STATUS_ACTIVE === $message->status) {
   // do the thing
 }

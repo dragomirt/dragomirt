@@ -55,19 +55,19 @@ It's available as a binary, download-able from the **[official website](https://
 
 #### Mac with Homebrew
 
-```
+```bash
 brew cask install phpstorm
 ```
 
 #### Ubuntu with Snap
 
-```
+```bash
 sudo snap install phpstorm --classic
 ```
 
 #### Windows with Chocolatey
 
-```
+```bash
 choco install phpstorm
 ```
 
@@ -89,7 +89,7 @@ The Vagrant setup selected for this example, [is the boilerplate, described in o
 Finally, you might think, after introducing so much context, it is time to show how to make it work.  
 First things first, so you have to actually install XDebug service on the machine that you are using ( or the Virtual Machine ). That can be accomplished by running the following command in case of a **Debian** system.
 
-```
+```bash
 sudo apt-get install -y php-xdebug
 ```
 
@@ -101,7 +101,7 @@ Finding out the PHP path
 
 In this case the path is `**/etc/php/7.3**`. After we found out the path, the next step is to configure the module, sure thing! Let's head on to `**xdebug.ini**` as noted above. To modify it, run the editor with **sudo**! There, you can set the following strings
 
-```
+```bash
 zend_extension=xdebug.so # path to extention binary. Most of the time in path already.
 xdebug.remote_enable=true # enable remote debugging, exactly what we need
 xdebug.remote_connect_back=true
@@ -120,7 +120,7 @@ Remote address
 
 In this case the **eth1** device is responsible for the connection with the host system of the virtual machine. In your case it might be different, but the idea stays the same. Once that's configured, you can save the file, and restart php and apache. In order to achieve that, run
 
-```
+```bash
 sudo service apache2 restart
 ```
 

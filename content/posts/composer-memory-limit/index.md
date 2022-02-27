@@ -31,7 +31,7 @@ The reason for that is either that:
 
 In case we are talking about software, it's quite straightforward in most cases. There are 2 ways of allowing composer to eat up more RAM than it's configured by default.
 
-```
+```bash
 # Either run the install or update as
 COMPOSER_LIMIT=-1 composer require laravel/laravel # or any other package or operation, like update
 
@@ -40,7 +40,7 @@ COMPOSER_LIMIT=-1 composer require laravel/laravel # or any other package or ope
 
 Another method is to alter the limit directly from within the php interpreter, but in that case there is a need to call the **composer** executable directly, not as a bash command.
 
-```
+```bash
 php -d memory_limit=-1 composer.phar <...>
 
 # Where -1 is all system memory available, and composer.phar is the actual composer exceutable.

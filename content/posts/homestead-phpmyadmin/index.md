@@ -27,7 +27,7 @@ Pull the latest zip of phpMyAdmin source from [https://www.phpmyadmin.net/downlo
 
 Head to where Homestead is installed, and open **Homestead.yaml** in your favorite text editor.
 
-```
+```yaml
 ---
 ip: "192.168.22.10"
 memory: 2048
@@ -58,7 +58,7 @@ features:
 
 Set the folder and sites mapping as shown above, and save the file. Restart the vagrant instance with provision via the following command and wait till the image is restarted.
 
-```
+```bash
 vagrant reload --provision
 ```
 
@@ -67,7 +67,7 @@ vagrant reload --provision
 On your host machine, the one that runs vagrant, head to the hosts file. For Unix systems ( Mac, Ubuntu, Arch, etc. ) it's at **/etc/hosts**.  
 For Windows based machines it's at **C:\\Windows\\System32\\drivers\\etc\\hosts.** Open the file in a text editor with admin privileges ( or run with **sudo** from terminal ), and include the following line at the end of the file.  
 
-```
+```bash
 192.168.22.10 phpmyadmin.test
 ```
 

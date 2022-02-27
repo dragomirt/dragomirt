@@ -13,7 +13,7 @@ coverImage: "Jungle-Beats-2.png"
 
 There are several methods to write variables in strings in PHP, but one of the cleanest and apparently the fastest is by using the double-quotes notation. To achieve that wrap the desired variable within curly braces and place that inside the desired string, which will automatically concatenate the contents with the dynamic data. To depict the idea, an example is attached below.
 
-```
+```php
 $fruit = "apple";
 $greeting = ["hey" => "hello"];
 

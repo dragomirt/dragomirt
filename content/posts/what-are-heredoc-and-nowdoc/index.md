@@ -17,7 +17,7 @@ Most of the time, using a regular string for large outputs is not the optimal so
   
 Instead of writing everything in one line with breaks, a better option would be to use a predefined language tool which does just what we want.
 
-```
+```php
 // Bad Example
 echo "Hi there!\n This is a bad example of using multiline strings\n Not cool :(";
 ```
@@ -25,7 +25,7 @@ echo "Hi there!\n This is a bad example of using multiline strings\n Not cool :(
 So that's why there exist **Heredoc** and **Nowdoc** syntaxes. Both are very similar in usage with small differences in the way the content is managed.  
 Using a **Heredoc** would look like the following.
 
-```
+```php
 $text = <<<HERE
     Hi there!
     This is a nice example
@@ -50,7 +50,7 @@ Now you might ask yourself, what is different between these two, and the answer 
 
 All the aforementioned quote is telling us is that with **Heredocs** you can use variables within the content, meanwhile with **Nowdocs** you get not variable parsing at all. An example showcasing the differences looks like the following.
 
-```
+```php
 $variable = 'banana';
 
 $here = <<<HERE

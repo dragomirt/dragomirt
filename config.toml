@@ -28,3 +28,7 @@ defaultContentLanguage = "en"
   twitter = "https://twitter.com/dragomirturcanu"
 #   stackoverflow: your-github-link
   # facebook: your-facebook-link
+
+[ markup ]
+    [ highlight ]
+        guessSyntax = true
