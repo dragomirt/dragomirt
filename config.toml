@@ -24,8 +24,10 @@ defaultContentLanguage = "en"
 
 [ social ]
   # e.g.
+  gmail = "mailto:dtu@dragoimrt.com"
   github = "https://github.com/dragomirt"
   twitter = "https://twitter.com/dragomirturcanu"
+  linkedin = "https://www.linkedin.com/in/dragomirt/"
 #   stackoverflow: your-github-link
   # facebook: your-facebook-link
 
