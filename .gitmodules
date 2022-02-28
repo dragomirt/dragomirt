@@ -1,3 +1,3 @@
 [submodule "themes/mini"]
-	path = themes/mini
+	path = ./themes/mini
 	url = git@github.com:dragomirt/hugo-theme-mini.git
