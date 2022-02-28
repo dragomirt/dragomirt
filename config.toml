@@ -9,8 +9,8 @@ defaultContentLanguage = "en"
 [ params ]
 
   author = "dragomirt"
-  bio = "Full stack software engineer and tech enthusiast. \n\n I enjoy making Web Apps, APIs and command line tools. Mostly PHP and Javascript."
-  description = "Full stack software engineer and tech enthusiast. \n I enjoy making Web Apps, APIs and command line tools. Mostly PHP and Javascript."
+  bio = "Software engineer and tech enthusiast"
+  description = "Software engineer and tech enthusiast"
   enableRSS = false
   enableComments = true
 #   enableGoogleAnalytics: true
