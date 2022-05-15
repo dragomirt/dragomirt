@@ -4,6 +4,7 @@ title = 'Dragomir Țurcanu'
 theme = 'mini'
 
 defaultContentLanguage = "en"
+googleAnalytics = "G-RZ8GW0WK4L"
 
 
 [ params ]
@@ -13,7 +14,7 @@ defaultContentLanguage = "en"
   description = "Software engineer and tech enthusiast"
   enableRSS = false
   enableComments = true
-#   enableGoogleAnalytics: true
+  enableGoogleAnalytics = true
     showPowerBy = false
     showToc = true
 
