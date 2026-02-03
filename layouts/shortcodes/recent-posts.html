@@ -1,0 +1,15 @@
+{{- $limit := .Get "limit" | default 5 -}}
+{{- $posts := where site.RegularPages "Section" "posts" | first $limit -}}
+
+{{ if $posts }}
+<ul class="blog-posts">
+  {{- range $posts -}}
+  <li>
+    <span class="date">{{ .Date.Format "02 Jan, 2006" }}</span>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{- end -}}
+</ul>
+{{ else }}
+<p>No posts yet.</p>
+{{ end }}

@@ -12,18 +12,14 @@ When I'm not debugging someone else's code (or my own from last week), you'll fi
 
 ---
 
-## Recent Posts
-
-- [How I use my Macbook](/posts/how-i-use-my-macbook/) - My single-display workflow
-- [Yoda Conditions](/posts/yoda-conditions/) - Programming style, this is
-- [Laravel Queue Supervisor](/posts/laravel-queue-supervisor/) - Keep your queues alive
-- [PDF to Plain Text with OCR](/posts/pdf-to-plain-text-with-ocr/) - Extracting text from stubborn PDFs
-- [Configuring XDebug for PHPStorm](/posts/configuring-xdebug-for-phpstorm/) - Debug like a pro
-
----
-
 ## About Me
 
 I started tinkering with tech at 16 and never looked back. Throughout my career, I've had the privilege of working with passionate professionals who've helped shape how I think about software. These days, I enjoy paying that forward.
 
 Fun fact: I'm convinced my [23:27 5K](https://www.strava.com/activities/2858417572/overview) is unbeatable. Prove me wrong.
+
+---
+
+## Recent Posts
+
+{{< recent-posts limit="5" >}}
