@@ -1,0 +1,46 @@
+baseURL = 'https://dragomirt.com/'
+languageCode = 'en-US'
+title = 'Dragomir Țurcanu ʕ•ᴥ•ʔ'
+theme = 'hugo-bearblog'
+
+defaultContentLanguage = "en"
+# googleAnalytics = "G-RZ8GW0WK4L"
+
+enableRobotsTXT = true
+
+[ params ]
+
+ # author = "dragomirt"
+ # bio = "Software engineer and tech enthusiast"
+ # description = "Software engineer and tech enthusiast"
+ # enableRSS = false
+ # enableComments = true
+ # enableGoogleAnalytics = true
+ #   showPowerBy = false
+ #   showToc = true
+
+ #   customCSS = [
+ #       "css/custom.css"
+ #       ]
+  description = "Dragomir Țurcanu ʕ•ᴥ•ʔ"	
+  title = "Dragomir Țurcanu ʕ•ᴥ•ʔ"
+  hideMadeWithLine = true
+  enablePostNavigator = true
+
+
+[ social ]
+  # e.g.
+#  gmail = "mailto:dtu@dragoimrt.com"
+#  github = "https://github.com/dragomirt"
+#  twitter = "https://twitter.com/dragomirturcanu"
+#  linkedin = "https://www.linkedin.com/in/dragomirt/"
+#   stackoverflow: your-github-link
+  # facebook: your-facebook-link
+
+
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true

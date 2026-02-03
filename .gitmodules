@@ -1,3 +1,3 @@
-[submodule "themes/mini"]
-	path = themes/mini
-	url = https://github.com/dragomirt/hugo-theme-mini.git
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/dragomirt/hugo-bearblog.git

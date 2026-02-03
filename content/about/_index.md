@@ -1,4 +1,4 @@
-Hi there! As you might have noticed on the homepage, I do enjoy playing with various types and flavors of software, for fun and for a living. I have a keen interest in performance optimizations and intense computation ( image, video, and 3d manipulation ). Although throughout my career my main area of concern were web technologies, I'm enthusiastic about native platforms, hardware, and IoT.
+Hi there! I do enjoy playing with various types and flavors of software, for fun and for a living. I have a keen interest in performance optimizations and intense computation ( image, video, and 3d manipulation ). Although throughout my career my main area of concern were web technologies, I'm enthusiastic about native platforms, hardware, and IoT.
 
 
 From the age of 16 when I began working in tech, I have had the chance to meet a lot of deeply passionate and skillful professionals that have helped me enrich and expand my knowledge regarding the aforementioned topics. Today, I enjoy exploring new things about my craft and helping others in their beginnings.
