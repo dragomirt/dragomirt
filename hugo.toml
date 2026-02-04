@@ -1,6 +1,6 @@
 baseURL = 'https://dragomirt.com/'
 languageCode = 'en-US'
-title = 'Dragomir Țurcanu ʕ•ᴥ•ʔ'
+title = 'Dragomir Țurcanu ヽ(•‿•)ノ'
 theme = 'hugo-bearblog'
 
 defaultContentLanguage = "en"
@@ -22,8 +22,8 @@ enableRobotsTXT = true
  #   customCSS = [
  #       "css/custom.css"
  #       ]
-  description = "Dragomir Țurcanu ʕ•ᴥ•ʔ"	
-  title = "Dragomir Țurcanu ʕ•ᴥ•ʔ"
+  description = "Notes on software engineering, music, and the things I find interesting"
+  title = "Dragomir Țurcanu ヽ(•‿•)ノ"
   hideMadeWithLine = true
   enablePostNavigator = true
 
