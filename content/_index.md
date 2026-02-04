@@ -16,6 +16,8 @@ When I'm not debugging someone else's code (or my own from last week), you'll fi
 
 {{< recent-posts limit="5" >}}
 
+---
+
 ## About Me
 
 I started tinkering with tech at 16 and never looked back. Throughout my career, I've had the privilege of working with passionate professionals who've helped shape how I think about software. These days, I enjoy paying that forward.
