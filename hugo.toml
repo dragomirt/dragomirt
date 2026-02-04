@@ -42,7 +42,6 @@ enableRobotsTXT = true
 
 [markup]
   [markup.highlight]
-    style = 'friendly'
-    lineNos = true
-    lineNumbersInTable = false
+    style = 'dracula'
+    lineNos = false
     codeFences = true
