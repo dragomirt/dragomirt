@@ -21,3 +21,9 @@ When I'm not debugging someone else's code (or my own from last week), you'll fi
 ## About Me
 
 I started tinkering with tech at 16 and never looked back. Throughout my career, I've had the privilege of working with passionate professionals who've helped shape how I think about software. These days, I enjoy paying that forward.
+
+---
+
+## Get in Touch
+
+[GitHub](https://github.com/dragomirt) · [dtu@dragomirt.com](mailto:dtu@dragomirt.com)
