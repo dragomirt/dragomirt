@@ -26,6 +26,8 @@ enableRobotsTXT = true
   title = "Dragomir Țurcanu ヽ(•‿•)ノ"
   hideMadeWithLine = true
   enablePostNavigator = true
+  images = ["images/avatar.jpg"]
+  favicon = "images/favicon.ico"
 
 
 [ social ]
