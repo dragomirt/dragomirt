@@ -1,10 +1,7 @@
 ---
 title: "Hello World!"
 date: "2020-11-09"
-categories: 
-  - "development"
-  - "php"
-tags: 
+tags:
   - "php"
 coverImage: "Hello-World-1-1-1.png"
 ---

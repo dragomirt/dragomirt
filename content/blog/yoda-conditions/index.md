@@ -1,13 +1,7 @@
 ---
 title: "Yoda Conditions"
 date: "2022-01-23"
-categories: 
-  - "development"
-  - "php"
-  - "til"
-  - "tricks"
-tags: 
-  - "development"
+tags:
   - "php"
   - "til"
 coverImage: "yoda.jpeg"

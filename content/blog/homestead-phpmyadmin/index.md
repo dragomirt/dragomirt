@@ -1,19 +1,9 @@
 ---
 title: "Homestead phpMyAdmin"
 date: "2021-02-28"
-categories: 
-  - "development"
-  - "environment"
+tags:
   - "php"
-  - "vagrant"
-  - "vm"
-  - "workspace"
-tags: 
-  - "database"
-  - "development"
-  - "homestead"
-  - "phpmyadmin"
-  - "vagrant"
+  - "tooling"
 coverImage: "pablo.png"
 ---
 

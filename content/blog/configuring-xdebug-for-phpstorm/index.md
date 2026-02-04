@@ -1,15 +1,9 @@
 ---
 title: "Configuring XDebug for PHPStorm"
 date: "2020-11-20"
-categories: 
-  - "development"
-  - "environment"
+tags:
   - "php"
-  - "terminal"
-  - "tricks"
-  - "vagrant"
-  - "vm"
-  - "workspace"
+  - "tooling"
 coverImage: "a81746f8-c3e0-4022-a860-d545f15ffb27-scaled.jpg"
 ---
 

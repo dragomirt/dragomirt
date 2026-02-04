@@ -1,17 +1,9 @@
 ---
 title: "Chrome inspect for virtual devices"
 date: "2020-12-16"
-categories: 
-  - "development"
-  - "environment"
+tags:
   - "javascript"
-  - "tricks"
-  - "workspace"
-tags: 
-  - "environment"
-  - "tips"
-  - "todayilearned"
-  - "tricks"
+  - "tooling"
 coverImage: "Chrome-inspect-2.png"
 ---
 

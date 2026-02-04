@@ -1,19 +1,9 @@
 ---
 title: "TIL: strtotime function"
 date: "2020-11-16"
-categories: 
-  - "development"
+tags:
   - "php"
   - "til"
-  - "tricks"
-tags: 
-  - "code"
-  - "codebase"
-  - "development"
-  - "php"
-  - "til"
-  - "todayilearned"
-  - "unix"
 coverImage: "TIL_-strtotime-1.png"
 ---
 

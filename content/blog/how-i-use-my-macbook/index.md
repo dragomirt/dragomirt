@@ -1,12 +1,9 @@
 ---
 title: "How I use my Macbook"
 date: "2022-06-17"
-categories:
-  - "development"
-  - "workspace"
 tags:
-  - "tips"
-  - "tricks"
+  - "infrastructure"
+  - "tooling"
 coverImage: "Laptop.jpg"
 ---
 

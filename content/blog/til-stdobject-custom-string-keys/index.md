@@ -1,16 +1,9 @@
 ---
 title: "TIL: stdObject custom string keys"
 date: "2020-12-16"
-categories: 
-  - "development"
+tags:
   - "php"
   - "til"
-  - "tricks"
-tags: 
-  - "php"
-  - "tip"
-  - "todayilearned"
-  - "trick"
 coverImage: "stdObject-key.png"
 ---
 

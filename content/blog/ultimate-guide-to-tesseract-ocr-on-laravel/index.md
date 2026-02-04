@@ -1,16 +1,9 @@
 ---
 title: "Ultimate Guide to Tesseract OCR on Laravel"
 date: "2023-11-06"
-categories:
-  - "development"
-  - "php"
 tags:
-  - "code"
-  - "codebase"
-  - "development"
   - "php"
   - "laravel"
-  - "ocr"
 coverImage: "TIL_-strtotime-1.png"
 ---
 

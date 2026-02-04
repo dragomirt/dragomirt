@@ -1,13 +1,9 @@
 ---
 title: "PHP Variables in strings"
 date: "2021-02-08"
-categories: 
-  - "development"
+tags:
   - "php"
   - "til"
-tags: 
-  - "php"
-  - "todayilearned"
 coverImage: "Jungle-Beats-2.png"
 ---
 

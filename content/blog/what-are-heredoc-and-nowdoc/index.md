@@ -1,15 +1,9 @@
 ---
 title: "What are Heredoc and Nowdoc?"
 date: "2021-02-08"
-categories: 
-  - "development"
+tags:
   - "php"
   - "til"
-  - "tricks"
-tags: 
-  - "development"
-  - "php"
-  - "todayilearned"
 coverImage: "Jungle-Beats-1.png"
 ---
 

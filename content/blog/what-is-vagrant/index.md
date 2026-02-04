@@ -1,12 +1,8 @@
 ---
 title: "What is Vagrant?"
 date: "2020-11-09"
-categories: 
-  - "development"
-  - "environment"
-  - "vagrant"
-  - "vm"
-  - "workspace"
+tags:
+  - "infrastructure"
 coverImage: "web_post.png"
 ---
 

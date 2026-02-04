@@ -1,20 +1,9 @@
 ---
 title: "How to switch Node version on the fly?"
 date: "2020-11-16"
-categories: 
-  - "development"
-  - "environment"
+tags:
   - "javascript"
-  - "nodejs"
-  - "terminal"
-  - "tricks"
-  - "workspace"
-tags: 
-  - "javascript"
-  - "nodejs"
-  - "nvm"
-  - "terminal"
-  - "tool"
+  - "tooling"
 coverImage: "How-to-switch-Node-version-on-the-fly.-The-right-tool-for-the-job-1-1.png"
 ---
 

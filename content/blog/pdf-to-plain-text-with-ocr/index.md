@@ -1,12 +1,9 @@
 ---
 title: "PDF to plain text with OCR"
 date: "2021-06-30"
-categories: 
-  - "development"
+tags:
   - "php"
-tags: 
-  - "development"
-  - "php"
+  - "laravel"
 coverImage: "pdf_to_plain_text_cover.png"
 ---
 

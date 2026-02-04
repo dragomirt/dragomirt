@@ -1,14 +1,9 @@
 ---
 title: "Composer memory limit"
 date: "2021-06-12"
-categories: 
-  - "development"
-  - "environment"
+tags:
   - "php"
-  - "terminal"
-tags: 
-  - "environment"
-  - "php"
+  - "tooling"
 coverImage: "composer_memory_limit.png"
 ---
 

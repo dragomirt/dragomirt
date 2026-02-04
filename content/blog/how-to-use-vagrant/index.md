@@ -1,22 +1,8 @@
 ---
 title: "Make Laravel Homestead by yourself"
 date: "2020-11-09"
-categories: 
-  - "development"
-  - "environment"
-  - "php"
-  - "terminal"
-  - "tricks"
-  - "vagrant"
-  - "vm"
-  - "workspace"
-tags: 
-  - "cloud"
-  - "environment"
-  - "nvm"
-  - "php"
-  - "vagrant"
-  - "virtual-machines"
+tags:
+  - "infrastructure"
 coverImage: "Vagrant-ENV.png"
 ---
 

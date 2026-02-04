@@ -1,15 +1,9 @@
 ---
 title: "Laravel queue supervisor"
 date: "2021-09-20"
-categories: 
-  - "development"
-  - "environment"
+tags:
   - "php"
-  - "terminal"
-tags: 
   - "laravel"
-  - "php"
-  - "queue"
 coverImage: "Laravel-queue-supervisor.png"
 ---
 
